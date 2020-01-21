@@ -1,2 +1,2 @@
 # Computer-Architecture-Projects
-Projects in CA class at NYU
+Project as part of Computer Architecture Systems course at New York University
